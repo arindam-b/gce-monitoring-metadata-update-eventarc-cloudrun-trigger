@@ -1,0 +1,3 @@
+#metric.type;alignmentPeriod;crossSeriesReducer;perSeriesAligner;comparison;trigger_count;thresholdValue;notificationChannels
+custom.googleapis.com/percent_free_memory;300s;REDUCE_NONE;ALIGN_MEAN;COMPARISON_LT;1;30;projects/arindam-2banerjee-0525-pimy/notificationChannels/2651864204692729230
+custom.googleapis.com/google_osconfig_agent;300s;REDUCE_NONE;ALIGN_COUNT;COMPARISON_LT;1;1;projects/arindam-2banerjee-0525-pimy/notificationChannels/2651864204692729230

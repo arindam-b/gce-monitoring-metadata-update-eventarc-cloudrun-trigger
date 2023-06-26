@@ -1,0 +1,2 @@
+#metric.type;alignmentPeriod;crossSeriesReducer;perSeriesAligner;comparison;trigger_count;thresholdValue;notificationChannels
+custom.googleapis.com/mongodb-up;300s;REDUCE_NONE;ALIGN_MEAN;COMPARISON_LT;1;1;projects/arindam-2banerjee-0525-pimy/notificationChannels/2651864204692729230
